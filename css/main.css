@@ -70,7 +70,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #202020;
+	background: #0e101b;
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
@@ -450,7 +450,7 @@ img.pull-left {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #202020;
+	background: #0e101b;
 	z-index: 800;
 	height: 100%;
 	width: 100%;
@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #202020 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #0e101b url(../images/intro-bg.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2110,7 +2110,7 @@ header .logo a {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: #202020;
+	background: #0e101b;
 	opacity: .9;
 }
 
@@ -2250,7 +2250,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #202020;
+	background: #0e101b;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
